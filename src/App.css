@@ -43,9 +43,9 @@ h1 {
     right: 20px;
     background: #61c6f1;
     color: white;
-    padding: 15px 40px;
+    padding: 12px 32px;
     font-size: 16px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', cursive;
     border: 3px solid #42b6e6;
     cursor: pointer;
   }
